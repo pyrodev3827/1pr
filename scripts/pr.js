@@ -1,4 +1,10 @@
+.gitignore
+Send Block to Lulzsec & Anonymous $Ghost1Security
+
+
 'use strict';
+
+
 
 (function loadLastPr() {
 
